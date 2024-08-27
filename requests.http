@@ -15,4 +15,4 @@ Content-Type: application/json
 
 ### Get a message
 
-GET http://127.0.0.1:3000/111
+GET http://127.0.0.1:3000/messages/620
